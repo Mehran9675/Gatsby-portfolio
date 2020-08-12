@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Farsi";
+    src: url("../../../content/Samim-Bold.woff");
+}
+h4 {
+    font-family: Farsi !important;
+    font-size: 1.5rem !important;
+    text-align: center;
+}

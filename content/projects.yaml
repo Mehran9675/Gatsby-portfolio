@@ -1,0 +1,32 @@
+- name: Burger Builder
+  url: https://burgerbuilder-cf751.web.app/ -- 
+  description: پروژه با ری اکت و ریداکس ساخته شده است و از فایر بیس برای هاست و مانگو دی بی برای دیتا بیس استفاده میکند. کاربر میتواند در آن یک همبرگر به دلخواه خود بسازد و آنرا سفارش دهد . تمامی سفارشات ثبت میشوند و کاربر میتواند با وارد شدن به حساب خود سفارشاتش را رویت کند 
+  tags:
+ 
+    - React
+    - Redux
+    - FireBase
+    - Mango DB
+    - Responsive
+  icon: https://github.com/Mehran9675/BurgerBuilder
+  image: images/projectB.png
+
+- name: SmartBrain
+  url: https://afternoon-escarpment-09591.herokuapp.com/
+  description: این وب اپ یک آدرس عکس قبول میکند و چهره های درون عکس را مشخص میکند. در ساخت از ری اکت استفاده شده و در هیروکو سرو میشود. تشخیص چهره را کلیریفای انجام می دهد
+  tags:
+    - React
+    - heroku
+    - particlesJS
+    - Clarifai
+  icon: https://github.com/Mehran9675/FaceRec
+  image: images/projectSB.png
+
+- name: Portfolio
+  url: 
+  description: همین وبسایت. با گتسبی ساخته و در فایر بیس هاست میشود
+  tags:
+    - FireBase
+    - Gatsby
+  icon: website
+  image: images/portfolio.png

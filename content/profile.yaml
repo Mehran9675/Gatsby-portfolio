@@ -1,0 +1,27 @@
+- profile: Mehran Zahiroddini
+  initials: MZ
+  name: Mehran Zahiroddini
+  email: mehranzahir@outlook.com
+  profession: Front-end Developer
+  image: images/profile.jpg
+  location: Tehran, Iran
+  relocation: false
+  company: empty
+  for_hire: false
+  focus: Frontend Development
+  focus_url: https://gatsbyjs.org
+  about: |
+   مهران ظهیرالدینی هستم برنامه نویس خود آموز وب متمرکز بر روی فرات اند و تکنولوژی های آن از جمله ری اکت و ریداکس برای وب اپلیکشن ها و گتسبی برای وب سایت های استاتیک
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - React / Redux / Gatsby
+  tools:
+    - React
+    - Redux
+    - VSCode
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
